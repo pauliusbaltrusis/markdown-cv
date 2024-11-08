@@ -2,90 +2,113 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Paulius Baltrusis
+**Infection Biologist**,
+  Ph.D. in Biomedical Science,
+  Application Specialist in Genomics at Bio-Rad Laboratories.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="pauliusbaltrusis@gmail.com">pauliusbaltrusis@gmail.com</a>
+| <a href="https://www.linkedin.com/in/paulius-baltrusis/">My LinkedIn page</a>
+| <a href="https://pauliusbaltrusis.github.io/">My method library</a>
 </div>
 
+---
 
-## Currently
+## Experience and Skills
 
-Standing on the shoulders of giants
+### Work experience
 
-### Specialized in
+#### Field Application Specialist (Genomics)
+**Bio-Rad Laboratories** — *Sweden*  
+*2024/01 - Present*
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+- Organized and conducted both internal and external trainings on Bio-Rad’s genomics portfolio
+- Installed and demonstrated lab equipment at customer sites
+- Assisted customers with application inquiries and troubleshooting
+- Supported Account Managers in pre- and post-sales processes
+
+#### Research Technician in R&D
+**Karolinska Institute, SciLifeLab**  
+*2022 - 2023/12*
+
+- Developed sequencing-based diagnostic tools for human diseases and analyzed high-throughput data
+- Managed lab operations: ordering supplies, handling deliveries, and communicating with suppliers
+
+#### Ph.D. Candidate
+**Swedish University of Agricultural Sciences**  
+*2018 - 2022*
+
+**Professional Achievements**
+- Designed and implemented new research projects across various budget levels
+- Managed multiple projects concurrently, fostering collaboration with international colleagues
+- Mentored students and visiting researchers in lab techniques and project development
+
+**Scientific Achievements**
+- Authored 14 peer-reviewed publications ([LinkedIn Profile](https://www.linkedin.com/in/paulius-baltrusis/))
+- Peer-reviewed for scientific journals
+- Developed molecular and genomics methods to study anthelmintic resistance in parasites
+- Established molecular tools and pipelines for parasite identification and differentiation
+
+### Wet Lab Skills
+- Expertise in nucleic acid workflows
+- Advanced PCR-based methods (ddPCR, qPCR)
+- NGS library preparation
+- Protein purification using HPLC
+- General molecular and microbiology techniques
+
+### Computer Skills
+- NGS data analysis and visualization
+- Statistical analyses and data handling in R
+- Bash scripting for automation
+- Proficient in Microsoft Office, Quartzy, ELN, CPQ, Salesforce
+
+### Languages
+- **Lithuanian** Native
+- **English** Fluent
+- **Swedish** Advanced
+
+### Core competencies
+- Science communication and peer review
+- Project and time management
+- Precision and attention to detail
 
 
-### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+---
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+**B.Sc. in Molecular Biology**  
+Vilnius University, Lithuania (2012 - 2016)  
+*Graduated with Honors (Cum Laude)*
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+**M.Sc. in Infection Biology**  
+Uppsala University, Sweden (2016 - 2018)  
+*Passed all subjects with distinction*
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
+---
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+- **2020**: Awarded a 15,000 SEK grant by Stiftelsen Knut och Alice Wallenbergs forskarstipediefond
+- **2019**: Received a 20,000 SEK grant from Stiftelsen Carl-Fredrik von Horns fond
+- **2019**: 'Annual Award for Best Scientific Publication' at the Swedish University of Agricultural Sciences
 
-Associate, *French Academy of Science*, Paris, France
-
-
+---
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+<!-- A list is also available [online](https://scholar.google.com/citations?user=72-4TsEAAAAJ&hl=sv) -->
 
-### Journals
+ full list of publications is available on
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+[Google Scholar](https://scholar.google.com/citations?user=72-4TsEAAAAJ&hl=sv) and
+[ORCID](https://orcid.org/0000-0001-7393-8524)
 
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
