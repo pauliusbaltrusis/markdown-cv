@@ -1,7 +1,6 @@
 ---
 layout: cv
 title: Paulius Baltrusis CV
-
 ---
 
 # Paulius Baltrusis
