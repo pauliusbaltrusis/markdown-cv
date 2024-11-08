@@ -1,7 +1,9 @@
 ---
 layout: cv
 title: Paulius Baltrusis CV
+
 ---
+
 # Paulius Baltrusis
 **Infection Biologist**,
   Ph.D. in Biomedical Science,
@@ -14,8 +16,6 @@ title: Paulius Baltrusis CV
 </div>
 
 ---
-
-# Experience and Skills
 
 ## Field Application Specialist (Genomics)
 **Bio-Rad Laboratories** — *Sweden*  
@@ -70,8 +70,6 @@ title: Paulius Baltrusis CV
 - Science communication and peer review
 - Project and time management
 - Precision and attention to detail
-
-
 
 ---
 
