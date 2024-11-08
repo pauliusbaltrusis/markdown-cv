@@ -1,6 +1,6 @@
 ---
-layout: cv
-title: Isaac Newtons's CV
+layout:
+title: Paulius Baltrusis CV
 ---
 # Paulius Baltrusis
 **Infection Biologist**,
