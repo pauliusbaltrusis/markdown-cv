@@ -1,5 +1,5 @@
 ---
-layout:
+layout: cv
 title: Paulius Baltrusis CV
 ---
 # Paulius Baltrusis
@@ -15,11 +15,9 @@ title: Paulius Baltrusis CV
 
 ---
 
-## Experience and Skills
+# Experience and Skills
 
-### Work experience
-
-#### Field Application Specialist (Genomics)
+## Field Application Specialist (Genomics)
 **Bio-Rad Laboratories** — *Sweden*  
 *2024/01 - Present*
 
@@ -28,14 +26,14 @@ title: Paulius Baltrusis CV
 - Assisted customers with application inquiries and troubleshooting
 - Supported Account Managers in pre- and post-sales processes
 
-#### Research Technician in R&D
+## Research Technician in R&D
 **Karolinska Institute, SciLifeLab**  
 *2022 - 2023/12*
 
 - Developed sequencing-based diagnostic tools for human diseases and analyzed high-throughput data
 - Managed lab operations: ordering supplies, handling deliveries, and communicating with suppliers
 
-#### Ph.D. Candidate
+## Ph.D. Candidate
 **Swedish University of Agricultural Sciences**  
 *2018 - 2022*
 
@@ -50,25 +48,25 @@ title: Paulius Baltrusis CV
 - Developed molecular and genomics methods to study anthelmintic resistance in parasites
 - Established molecular tools and pipelines for parasite identification and differentiation
 
-### Wet Lab Skills
+## Wet Lab Skills
 - Expertise in nucleic acid workflows
 - Advanced PCR-based methods (ddPCR, qPCR)
 - NGS library preparation
 - Protein purification using HPLC
 - General molecular and microbiology techniques
 
-### Computer Skills
+## Computer Skills
 - NGS data analysis and visualization
 - Statistical analyses and data handling in R
 - Bash scripting for automation
 - Proficient in Microsoft Office, Quartzy, ELN, CPQ, Salesforce
 
-### Languages
+## Languages
 - **Lithuanian** Native
 - **English** Fluent
 - **Swedish** Advanced
 
-### Core competencies
+## Core competencies
 - Science communication and peer review
 - Project and time management
 - Precision and attention to detail
@@ -111,4 +109,4 @@ Uppsala University, Sweden (2016 - 2018)
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: November 2024 -->
